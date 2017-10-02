@@ -2,3 +2,5 @@ Hello git!
 Gitの基本的な操作を学びます
 ・git add
 ・git commit
+・git rm
+・git status
